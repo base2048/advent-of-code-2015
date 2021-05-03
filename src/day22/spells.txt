@@ -1,0 +1,7 @@
+               Mana  Duration  Damage   HitPoints   Armor      Mana
+
+Magic Missile   -53      1     4 | -4     0 | 0    0 |  0     0 | 0
+Drain           -73      1     2 | -2     2 | 0    0 |  0     0 | 0
+Shield         -113      6     0 |  0     0 | 0    7 | -7     0 | 0
+Poison         -173      6     3 | -3
+Recharge       -229      5     0 |  0     0 | 0    0 |  0   101 | 0
